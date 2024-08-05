@@ -7,9 +7,10 @@ NoSQL Challenge
 
 # Results
 
-TBA:
-- path1
-- path2
+The *NoSQL* subfolder contains the following files:
+
+- **NoSQL_setup.ipynb**
+- **NoSQL_analysis.ipynb**
 
 # Implementation notes
 
